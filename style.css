@@ -1,0 +1,28 @@
+body{
+	background: pink;
+	text-align: center;
+}
+
+nav{
+	background: red;
+}
+li{
+	display: inline-flex;
+}
+
+u{
+	padding: 10px;
+}
+
+.link1:hover{
+	background: blue;
+}
+.link2:hover{
+	background: yellow;
+}
+.link3:hover{
+	background: yellow;
+}
+.link4:hover{
+	background: blue;
+}
